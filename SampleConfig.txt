@@ -1,0 +1,4 @@
+"AadClientId": "49950cf4-3ca7-41b8-a50b-4b0000ef4a8f",
+  "AadSecret": "6cQ8Q~BemZN_Z_qATfDnQSoGxhGiU_HfUdFIbdvU",
+  "AadTenantDomain": "fwlabnet.onmicrosoft.com",
+  "AadTenantId": "209645c1-2f9d-4ef0-8130-1f59eb3e1a52",
